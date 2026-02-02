@@ -7,7 +7,7 @@ import (
 	"io/ioutil"
 	"math"
 
-	"github.com/muesli/clusters"
+	"github.com/k----n/clusters"
 
 	"github.com/wcharczuk/go-chart"
 	"github.com/wcharczuk/go-chart/drawing"
